@@ -1,0 +1,2 @@
+
+bool rtl = true;
